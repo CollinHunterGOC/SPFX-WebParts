@@ -1,0 +1,35 @@
+.weatherContainer {
+  font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial;
+  padding: 12px;
+  border-radius: 4px;
+  background-color: #ffffff;
+  color: #222;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.08);
+}
+
+.title {
+  font-weight: 600;
+  margin-bottom: 8px;
+  font-size: 1.1rem;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.icon {
+  width: 64px;
+  height: 64px;
+}
+
+temp {
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+
+.small {
+  font-size: 0.9rem;
+  color: #666;
+}

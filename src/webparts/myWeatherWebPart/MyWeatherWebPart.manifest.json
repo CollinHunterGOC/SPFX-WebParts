@@ -1,0 +1,20 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "b8f4a3a8-0000-4d1f-9c00-000000000002",
+  "alias": "MyWeatherWebPart",
+  "componentType": "WebPart",
+  "version": "1.0.0",
+  "manifestVersion": 2,
+  "preconfiguredEntries": [
+    {
+      "title": { "default": "My Weather" },
+      "description": { "default": "Shows current weather for your location" },
+      "officeFabricIconFontName": "Sunny",
+      "properties": {
+        "title": "Current Weather",
+        "apiKey": "",
+        "units": "metric"
+      }
+    }
+  ]
+}

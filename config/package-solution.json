@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "myweatherwebpart-client-side-solution",
+    "id": "a2e1beef-0000-4b5c-9f0a-000000000001",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "developer": {
+      "name": "Your Company",
+      "websiteUrl": "https://example.com",
+      "privacyUrl": "https://example.com/privacy",
+      "termsOfUseUrl": "https://example.com/terms"
+    }
+  },
+  "paths": {
+    "zippedPackage": "solution/myweatherwebpart.sppkg"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "solutionName": "MyWeatherWebPart",
+    "componentType": "webpart",
+    "framework": "react",
+    "isCreatingSolution": true,
+    "version": "1.18.0",
+    "environment": "spo"
+  }
+}

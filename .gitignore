@@ -1,0 +1,6 @@
+node_modules
+lib
+dist
+temp
+config/config.json
+package-solution.json
